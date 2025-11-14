@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Rushikesh Potdar<br>👀 I’m interested in Creating new functonalities on websites and new implementing new ideas.<br>🌱 I’m currently learning ...Javascript,Python and nodeJS.<br>💞️ I’m looking to collaborate on ...projects related to webdevelopment.<br>📫 How to reach me ...email-ruship7800@gmail.com<br>⚡ Fun fact: ...Gaming reduces stress.
+👋 Hi, I’m @Rushikesh Potdar<br>👀 I’m interested in Creating new functonalities on websites and new implementing new ideas.<br>🌱 I’m currently learning ...DevOps.<br>💞️ I’m looking to collaborate on ...projects related to webdevelopment, Cloud, CI-CD, Containerization.<br>📫 How to reach me ...email-ruship7800@gmail.com<br>⚡ Fun fact: ...Gaming reduces stress.
 
 
 ## 🌐 Socials:
